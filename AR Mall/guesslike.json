@@ -1,0 +1,112 @@
+{
+    "data": [
+        {
+          "id": 1,
+          "goods_img": "img/xbox.jpg",
+          "name": "Xbox",    
+          "new_price": 899,
+          "saleNum": 412
+        },
+        {
+          "id": 2,
+          "goods_img": "img/Cam.webp",
+          "name": "Web Cam",    
+          "new_price": 99,
+          "saleNum": 312
+        },
+        {
+          "id": 3,
+          "goods_img": "img/CardBinder.webp",
+          "name": "Card Binder",    
+          "new_price": 59,
+          "saleNum": 258
+        },
+        {
+          "id": 4,
+          "goods_img": "img/Chair.jpeg",
+          "name": "Chair",    
+          "new_price": 560,
+          "saleNum": 888
+        },
+        {
+          "id": 5,
+          "goods_img": "img/NeonJoyCon.webp",
+          "name": "Neon Joy-Con",    
+          "new_price": 129,
+          "saleNum": 372
+        },
+        {
+          "id": 6,
+          "goods_img": "img/NoiseIsolatingMicrophone.jpg",
+          "name": "Noise Isolating Microphone",    
+          "new_price": 430,
+          "saleNum": 213
+        },
+        {
+          "id": 7,
+          "goods_img": "img/OverEarHeadphones.jpg",
+          "name": "Over Ear Headphones",    
+          "new_price": 399,
+          "saleNum": 174
+        },
+        {
+          "id": 8,
+          "goods_img": "img/ProGamingHeadset.webp",
+          "name": "Pro Gaming Headset",    
+          "new_price": 379,
+          "saleNum": 375
+        },
+        {
+          "id": 9,
+          "goods_img": "img/RacingWheel.webp",
+          "name": "Racing Wheel",    
+          "new_price": 1099,
+          "saleNum": 546
+        },
+        {
+          "id": 10,
+          "goods_img": "img/SwitchLiteCoral.webp",
+          "name": "Switch Lite Coral",    
+          "new_price": 599,
+          "saleNum": 277
+        },
+        {
+          "id": 11,
+          "goods_img": "img/SwitchLiteTurquoise.webp",
+          "name": "Switch Lite Turquoise",    
+          "new_price": 599,
+          "saleNum": 178
+        },
+        {
+          "id": 12,
+          "goods_img": "img/SwitchProController.webp",
+          "name": "Switch Pro Controller",    
+          "new_price": 189,
+          "saleNum": 238
+        },
+        {
+          "id": 13,
+          "goods_img": "img/VerticalStand.webp",
+          "name": "Vertical Stand",    
+          "new_price": 99,
+          "saleNum": 410
+        },
+        {
+          "id": 14,
+          "goods_img": "img/WebCam.webp",
+          "name": "Web Cam",    
+          "new_price": 79,
+          "saleNum": 98
+        },
+        {
+          "id": 15,
+          "goods_img": "img/WhiteJoy-Con.webp",
+          "name": "White Joy-Con",    
+          "new_price": 199,
+          "saleNum": 620
+        }
+
+      ],
+      "code":0,
+      "msg":"success"
+}

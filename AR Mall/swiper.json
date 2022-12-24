@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "banner_img": "img/slider1.webp"
+    },
+    {
+      "id": 2,
+      "banner_img": "img/slider2.webp"
+    },
+    {
+      "id": 3,
+      "banner_img": "img/slider3.webp"
+    }
+
+  ],
+  "code": 0,
+  "msg": "success"
+}

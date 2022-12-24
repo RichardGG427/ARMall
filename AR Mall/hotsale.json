@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "goods_img": "img/sw.jpg",
+      "name": "Switch",
+
+      "new_price": 549,
+      "old_price": 649,
+      "commentNum": 765,
+      "collectNum": 643,
+      "saleNum": 412
+    },
+    {
+      "id": 1,
+      "goods_img": "img/Headset.jpeg",
+      "name": "Headset",
+
+      "new_price": 139,
+      "old_price": 249,
+      "commentNum": 400,
+      "collectNum": 555,
+      "saleNum": 222
+    },
+    {
+      "id": 1,
+      "goods_img": "img/Mouse.jpeg",
+      "name": "Mouse",
+
+      "new_price": 145,
+      "old_price": 199,
+      "commentNum": 765,
+      "collectNum": 643,
+      "saleNum": 333
+    },
+    {
+      "id": 1,
+      "goods_img": "img/Oculus2.jpeg",
+      "name": "Oculus",
+
+      "new_price": 188,
+      "old_price": 320,
+      "commentNum": 265,
+      "collectNum": 140,
+      "saleNum": 757
+    },
+    {
+      "id": 1,
+      "goods_img": "img/Printer.jpg",
+      "name": "Printer",
+
+      "new_price": 229,
+      "old_price": 340,
+      "commentNum": 765,
+      "collectNum": 427,
+      "saleNum": 328
+    }
+  ],
+  "code":0,
+  "msg":"success"
+}

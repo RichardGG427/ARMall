@@ -1,0 +1,49 @@
+{
+    "data":{
+        "fd_time":3896,
+        "goods_list":[
+            {
+                "id":1,
+                "goods_img":"img/phone.jpeg",
+                "name":"Smart Phone",
+                "progress":30,
+                "new_price":549,
+                "old_price":649
+            },
+            {
+                "id":2,
+                "goods_img":"img/Earpods.jpg",
+                "name":"Earpods",
+                "progress":40,
+                "new_price":199,
+                "old_price":299
+            },
+            {
+                "id":3,
+                "goods_img":"img/HardDrive.webp",
+                "name":"Hard Drive",
+                "progress":32,
+                "new_price":140,
+                "old_price":249
+            },
+            {
+                "id":4,
+                "goods_img":"img/Laptop.png",
+                "name":"Smart Phone",
+                "progress":68,
+                "new_price":2549,
+                "old_price":3649
+            },
+            {
+                "id":5,
+                "goods_img":"img/Monitor.jpg",
+                "name":"Monitor",
+                "progress":88,
+                "new_price":449,
+                "old_price":650
+            }
+        ]
+    },
+    "code":0,
+    "msg":"success"
+}
